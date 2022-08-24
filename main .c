@@ -1,7 +1,7 @@
 #include<stdio.h>
 
-int main(int argc, char const *argv[])
+int main()
 {
-    printf("hello wotld");
+    printf("  ");
     return 0;
 }
